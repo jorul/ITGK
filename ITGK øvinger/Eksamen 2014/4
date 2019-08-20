@@ -1,0 +1,18 @@
+4a)
+19
+myst er en rekursiv funksjon som legger sammen produktet av de to ytterste tallene med produktet av de to nest ytterst også videre til det er ingen eller et tall igen.
+
+4b)
+[1,0,1,0]
+[0,1,0,1]
+[1,0,1,0]
+[0,1,0,1]
+myst_b tar inn et tall w og returnerer en w x w liste med annenhver bit 0 og annenhver 1.
+
+4c)
+'ROSENBORG'
+myst_c tar inn en streng og returnerer en streng bestående av hvert tredje tegn i den opprinnelige strengen
+
+4d)
+1) linje 14: return True
+2) 

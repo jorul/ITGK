@@ -1,0 +1,15 @@
+2a)
+Error
+funksjonen flopp tar inn en matrise og returnerer Error. Hadden n'en bak else i lije 9 blitt tatt bort ville flopp istede returnert matrisen med 0 og 1 byttet om.
+
+2b)
+30th Nov 1337
+compute tar inn en dato, med dato måned og år som tall, og returnerer en streng med datoen skrevet med engelsk ending, navnet på måneden og året.
+
+2c)
+3 b
+fr tar in en streng og returnerer den bokstaven i det engelsek alfabetet som forekommer flest gang, og hvor mange ganger den forekommer.
+
+2d)
+6
+f sinner summen av siffrene i et tall, hvis denne summen er større enn ti finner han igjen summen av siffrene til dette tallet, og skik fortsetter funksjonen helt til den returnerer et tall mindre enn ti.

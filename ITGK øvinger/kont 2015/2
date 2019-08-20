@@ -1,0 +1,12 @@
+a)
+[25.00 , 20.00 , 20.00 , 13.33 , 15.00]
+funksjonen tar inn ei liste, og returnerer ei liste der hvert element er gjenomsnittet av seg selv og naboelement(et/ene) i den opprinnelige lista.
+
+c)
+False
+funksjonen tar inn ei liste og undersøker om noen av elementene er 1 større enn elementet på plassen før, dersom det er tilfellet returneres True, ellers returneres False.
+
+e)
+2
+funksjonen tar inn ei todimensjonal liste og en verdi x, og dersom x er i lista returneres produktet av 'koordinatene' (hvilket element det er i den indre og den ytre lista) til x i lista, ellers returneres 0.
+

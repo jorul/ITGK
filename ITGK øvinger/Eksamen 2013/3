@@ -1,0 +1,15 @@
+3a)
+a= 3, b = 2
+secret1 tar inn to verdier a og b og sjekker hvor mange ganger a kan trekkes fra b, deretter returneres antall ganger og resten.
+
+3b)
+[[1,5,9,13],
+ [2,5,10,14],
+ [3,7,11,15],
+ [4,8,12,16]]
+funksjonen tar inn ei todimensjonal liste og returnerer ei todimensjonal liste der kolonne 1 og rad 1 har byttet verdier, kolonne 2 og rad 2 har byttet verdier osv. gitt at den er kvadratisk, ellers returneres -1.
+
+3c)
+'000101001000'
+funksjonen tar inn et heksadesimalt tall og returnerer det binære tallet som representerer samme tall.
+

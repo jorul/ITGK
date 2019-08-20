@@ -1,0 +1,12 @@
+2a)
+'JULENISSEN'
+Funksjonen tar inn to strenger og returnerer en streng sammensatt av de to strengene ved å ta annenhverbokstav fra hver streng
+
+2b)
+64
+rekursiv funksjon som multipliserer med 2*tallet så lenge tallet er mindre enn 10.
+
+2c)
+[8,7,6,5,3,2]
+funksjonen sorterer lista synkende
+

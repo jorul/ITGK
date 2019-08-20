@@ -1,0 +1,35 @@
+a
+b
+c !!
+b
+c
+a
+c
+c
+b
+d
+d
+b
+b
+c
+b !!
+d
+b
+c
+b
+c
+
+2a)
+linje 5
+burde stått: imid = (imin+imax)//2
+
+2b)
+[9,7,5,3,2,1]
+Koden myst tar inn ei liste og returnerer lista baklengs.
+
+2c)
+'101011001'
+Koden myst2 tar inn et tall og returnerer tallet i binær som en string
+
+2d)
+Loden myst3 tar inn ei liste og returnerer lista med elementene i lista stokket om.

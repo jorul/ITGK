@@ -1,0 +1,22 @@
+Legge til - .append() / .insert()
+Fjerne - .pop()
+Sorter - .sort()
+Reversere - .reverse()
+splitte - .split('det som skal splitte(blir tatt bort)')
+Kan sjekke om noe er i en liste - if a in liste
+
+Strenger kan sees på som en liste av tegn
+- kn hente ut tallverdi med å bruke ord(a)
+- kan få tilbake tegnverdien ved å bruke chr(4)
+
+Kan gjøre om streng til liste -> list(streng)
+Kan gjøre om liste til streng -> .join(liste)
+
+
+
+
+streng = 'Livet er.'
+for i, bokstav in enumerate(streng):
+    print('Bokstaven', i, 'er', bokstav)
+
+print(streng.split(' '))

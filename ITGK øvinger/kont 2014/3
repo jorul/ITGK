@@ -1,0 +1,12 @@
+3a)
+8
+funksjonen beregner fibonaccitall nr. n.
+
+3b)
+720
+funksjonen regner ut fakultet av n
+
+3c)
+problemet er at response endres til kun "OK." for hvert tall som er med, så siden 9 er i listen blir response til "OK." til slutt.
+En måte å rette problemet er å å fjerne 'else: response = OK!' og heller etter alle iterasjonene i for-løkken sjekke om response er en tom streng. Hvis tom: return 'OK.', else return response.
+

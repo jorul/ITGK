@@ -1,0 +1,19 @@
+4a)
+1,2,3,4,5
+2,4,6,8,10
+3,6,9,12,15
+4,8,12,16,20
+5,10,15,20,25
+funksjonen tar inn et heltall b og skriver ut b-gangetabellen.
+
+4b)
+[[3,2,1],[5,4,3]]
+funksjonen tar inn ei todimensjonal liste og returnerer lista der kolonner og rader er byttet om.
+
+4c)
+120
+funksjonen tar inn et tall og returnerer fakultet av tallet.
+
+4d)
+'Nynorsk'
+funksjonen tar inn en streng og returnerer en streng bestående av bokstav nr. 1, nr 1+2, nr. 2+3, nr 3+3, nr. 6+4 osv. av bokstavene i den insendte strengen.

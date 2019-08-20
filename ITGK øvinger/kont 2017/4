@@ -1,0 +1,15 @@
+4a
+'God middag!!'
+myst1 tar inn 3 strenger og blander de sammen og returnerer en streng sammensatt av de tre.
+
+4b
+[[0,0,0,0,0],[0,3,4,5,0],[0,4,5,6,0],[0,5,6,7,0],[0,0,0,0,0]]
+myst2 tar inn ei todimensjonal liste og riturnerer lista der kantente er byttet ut med 0.
+
+4c
+'The Matrix'
+myst3 tar inn en streng og returnerer en streng med annenhver bokstav baklengs.
+
+4d
+256
+myst4 er en rekusiv funksjon som tar inn tre tall x, y og z, og opphøyer x i seg selv (z-y) ganger.
